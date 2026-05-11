@@ -1,5 +1,8 @@
 # Experiment 3: DML Commands
 
+### Name: RAMYA R
+### Reg No: 212223230169
+
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 
