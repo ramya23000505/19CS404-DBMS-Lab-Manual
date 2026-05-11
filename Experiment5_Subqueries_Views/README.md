@@ -1,5 +1,8 @@
 # Experiment 5: Subqueries and Views
 
+### Name: RAMYA R
+### Reg No: 212223230169
+
 ## AIM
 To study and implement subqueries and views.
 
