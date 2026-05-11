@@ -1,5 +1,6 @@
 # ER Diagram Workshop – Submission Template
-
+### Name: RAMYA R
+### Reg No: 212223230169
 ## Objective
 To understand and apply ER modeling concepts by creating ER diagrams for real-world applications.
 
