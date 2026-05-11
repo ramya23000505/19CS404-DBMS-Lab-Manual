@@ -1,4 +1,7 @@
 # Experiment 6: Joins
+### Name: RAMYA R
+### Reg No: 212223230169
+
 ## AIM
 To study and implement different types of joins.
 
